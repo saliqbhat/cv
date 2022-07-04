@@ -31,11 +31,11 @@ h3{
 }
 .bottom-cloud{
   position: absolute;
-  left: 300px;
+  left: 200px;
   bottom: 300px;
 }
 .top-cloud{
   position: absolute;
-right: 300px;
+right: 200px;
 top: 50px;
 }
